@@ -1,2 +1,2 @@
-# bottle-WebApplication
+# LAMP環境による基本的なWebアプリケーションの作成実習
 PythonのWebアプリケーションフレームワーク（bottle）の説明資料及びコードを記載します
