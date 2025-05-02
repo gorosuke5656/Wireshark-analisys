@@ -28,14 +28,14 @@
 　(2)　ファイルアップロード機能の作成と確認<br>
 　(3)　SSL機能の有効化と確認<br>
 
- 参考資料
-　Paizaラーニング　PHP-Web入門編：PHPでWebアプリケーションを開発しよう<br>
-【PHP x MySQL入門】 - はじめてのPHPとMySQLデータベースWeb開発チュートリアル<br>
-https://proxy-paiza-hatenablog-com.paiza.cloud/entry/2018/09/25/paizacloud_php#main<br>
-
-
-参考
+ 参考
 　　Ubuntu18を起動モードを変更する[次のチャプターへ進む](./Paiza-Cloud.md)<br>
+
+
+  参考資料
+　  Paizaラーニング　PHP-Web入門編：PHPでWebアプリケーションを開発しよう<br>
+   【PHP x MySQL入門】 - はじめてのPHPとMySQLデータベースWeb開発チュートリアル<br>
+     https://proxy-paiza-hatenablog-com.paiza.cloud/entry/2018/09/25/paizacloud_php#main<br>
 
 
 
