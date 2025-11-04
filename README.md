@@ -1,41 +1,40 @@
-# LAMP環境による基本的なWebアプリケーションの作成実習
+# Wiresharkによるパケット解析
+#### 【１ 基礎編】<br>
+　　１　パケット解析の目的<br>
+　　２　Wiresahrkの概要<br>
+　　３　Wiresahrkのインストール<br>
+　　４　各種機能の紹介<br>
+ 　　(1) 起動と表示画面<br>
+ 　　(2) キャプチャデータのフィルタに関わる機能<br>
+ 　　(3) 表示に関わる機能<br>
+ 　　(4) 保存に関わる機能<br>
+ 　　(5) 統計/解析機能<br>　　　
+         TCPパケットの解析例<br>
+ 　　(6) 出力に関わる機能<br>
+ 　　(7)　Wiresharkで使用できるコマンド紹介<br>
+ 　　　ア　Tsharkについて<br>
+ 　　　イ　Mergecapについて<br>
+　　　 ウ  DumpCAPについて<br>
+５　参考<br>
+ (1)  Wiresharkで一定時間パケットを作成し、自動保存するバッチ作成と確認（packet-capture.bat)<br>　
+ (2) カスタムシグニチャ適用のためのパケット確認例<br>
+ (3) 郵便番号APIに対する通信の観察<br>
+ (4) プレマスターシークレットを用いたSSL通信の解読<br>
 
-１　LAMP環境について[次のチャプターへ進む](./Paiza-Cloud.md)<br>
+#### 【２　解析実習】
+　(1) Wiresharkの表示列をカスタマイズする<br>
+　(2) 感染トラヒック調査におけるフィルタリング<br>　
+　(3) Pcapからのホスト及びユーザの特定<br>
+　(4) PCからのオブジェクトのエクスポート<br>
+　(5) trickbot感染の調査<br>
+　(6) Ursnif感染の調査<br>
+  (7) Qakboot感染の調査<br>
+　(8) HTTPSトラヒックの復号<br>
+　(9) Dridex感染トラヒックの調査<br>
 
-２　今回の環境[次のチャプターへ進む](./Paiza-Cloud.md)<br>
-　(1)　全体NW構成<br>
-　(2)　サーバの環境構築<br>
-
-３　Webアプリケーションの基礎技術[次のチャプターへ進む](./Paiza-Cloud.md)<br>
- (1) WebアプリケーションにおけるMVCモデル<br>
- (2)  ３大機能の概要<br>
- (3)  ３大機能の確認<br>
-　　ア　ルーティングの基礎<br>
-　　イ　テンプレートの基礎<br>
-　　ウ　フォーム処理の基礎<br>
-
-４　データベースとの連携と確認（その１）[次のチャプターへ進む](./Paiza-Cloud.md)<br>
- (1)　データベース接続確認ページの作成と確認<br>　
- (2)　メールアドレス確認ページの作成と確認<br>
-　　　その１<br>
-　　　その２<br>　
-４　データベースとの連携と確認（その２）[次のチャプターへ進む](./Paiza-Cloud.md)<br>
- (3)  簡易掲示板の作成と確認<br>
- (4)　TODOリストページの作成と確認<br>
-
-５　その他の機能追加[次のチャプターへ進む](./Paiza-Cloud.md)<br>
-　(1)　クッキーとセッションの違いの確認<br>
-　(2)　ファイルアップロード機能の作成と確認<br>
-　(3)　SSL機能の有効化と確認<br>
-
- 参考
-　　Ubuntu18を起動モードを変更する[次のチャプターへ進む](./Paiza-Cloud.md)<br>
-
-
-  参考資料
-　  Paizaラーニング　PHP-Web入門編：PHPでWebアプリケーションを開発しよう<br>
-   【PHP x MySQL入門】 - はじめてのPHPとMySQLデータベースWeb開発チュートリアル<br>
-     https://proxy-paiza-hatenablog-com.paiza.cloud/entry/2018/09/25/paizacloud_php#main<br>
+（参考資料）<br>
+　　サイバーセキュリティチュートリアル　　　　Paloalto　Networks<br>
+　　https://unit42.paloaltonetworks.com/ja/category/cybersecurity-tutorials-ja/<br>
 
 
 
