@@ -35,6 +35,8 @@
 （参考資料）<br>
 　　サイバーセキュリティチュートリアル　　　　Paloalto　Networks<br>
 　　https://unit42.paloaltonetworks.com/ja/category/cybersecurity-tutorials-ja/<br>
+    Wireshark実習資料(github)<br>
+    https://github.com/PaloAltoNetworks/Unit42-Wireshark-tutorials/tree/main<br>
 
 
 
